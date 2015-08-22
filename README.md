@@ -8,7 +8,7 @@ Collection of jQuery Bower components of Interactive Pioneers.
 | --------- | ------- | ----------- |
 | [accordion](https://github.com/interactive-pioneers/iptools-jquery-accordion) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-accordion.svg)](http://badge.fury.io/bo/iptools-jquery-accordion) | A simple jQuery accordion plugin |
 | [anchornav](https://github.com/interactive-pioneers/iptools-jquery-anchornav) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-anchornav.svg)](http://badge.fury.io/bo/iptools-jquery-anchornav) | jQuery anchor navigation |
-| [charcounter](https://github.com/interactive-pioneers/iptools-jquery-charcounter) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable-charcounter.svg)](http://badge.fury.io/bo/iptools-jquery-charcounter) | jQuery char counter plugin |
+| [charcounter](https://github.com/interactive-pioneers/iptools-jquery-charcounter) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-charcounter.svg)](http://badge.fury.io/bo/iptools-jquery-charcounter) | jQuery char counter plugin |
 | [expandable-box](https://github.com/interactive-pioneers/iptools-jquery-expandable-box) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable-box.svg)](http://badge.fury.io/bo/iptools-jquery-expandable-box) | |
 | [expandable-list](https://github.com/interactive-pioneers/iptools-jquery-expandable-list) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable%20list.svg)](http://badge.fury.io/bo/iptools-jquery-expandable-list) | |
 | [fileupload](https://github.com/interactive-pioneers/iptools-jquery-fileupload) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-fileupload.svg)](http://badge.fury.io/bo/iptools-jquery-fileupload) | |

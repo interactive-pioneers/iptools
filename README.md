@@ -4,7 +4,7 @@ Collection of jQuery Bower components of Interactive Pioneers.
 
 ## Components
 
-| Component | Version | Description |
+| Component | Bower version | Description |
 | --------- | ------- | ----------- |
 | [accordion](https://github.com/interactive-pioneers/iptools-jquery-accordion) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-accordion.svg)](http://badge.fury.io/bo/iptools-jquery-accordion) | A simple jQuery accordion plugin |
 | [anchornav](https://github.com/interactive-pioneers/iptools-jquery-anchornav) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-anchornav.svg)](http://badge.fury.io/bo/iptools-jquery-anchornav) | jQuery anchor navigation |

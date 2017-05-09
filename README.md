@@ -20,7 +20,7 @@ Collection of jQuery Bower components of Interactive Pioneers.
 | [populator](https://github.com/interactive-pioneers/iptools-jquery-populator) | jQuery plugin that populates form control value(s) to other control(s) | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-populator.svg)](http://badge.fury.io/bo/iptools-jquery-populator) |
 | [tooltip](https://github.com/interactive-pioneers/iptools-jquery-tooltip) | Simple jQuery Tooltip plugin | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-tooltip.svg)](http://badge.fury.io/bo/iptools-jquery-tooltip) |
 | [validator](https://github.com/interactive-pioneers/iptools-jquery-validator) | jQuery form validation plugin | [![npm version](https://badge.fury.io/js/iptools-jquery-validator.svg)](https://badge.fury.io/js/iptools-jquery-validator) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-validator.svg)](http://badge.fury.io/bo/iptools-jquery-validator) |
-| [manager](https://github.com/interactive-pioneers/iptools-jquery-manager) | Component manager for all above-listed components | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-manager.svg)](http://badge.fury.io/bo/iptools-jquery-manager) |
+| [manager](https://github.com/interactive-pioneers/iptools-jquery-manager) | Component manager for all above-listed components | [![npm version](https://badge.fury.io/js/iptools-jquery-manager.svg)](https://badge.fury.io/js/iptools-jquery-manager) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-manager.svg)](http://badge.fury.io/bo/iptools-jquery-manager) |
 
 ## License
 

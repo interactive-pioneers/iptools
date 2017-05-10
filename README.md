@@ -4,48 +4,95 @@ Collection of JavaScript components by Interactive Pioneers.
 
 ## Components
 
-| Component | Ports       | Description               | NPM version | Bower version                    |
-| --------- | -----       | ---------------           | -------     | -----------                      |
-| accordion |             | A simple accordion plugin |             |                                  |
-|           | [jQuery][1] |                           |             | [![Bower version][bo_img1]][bo1] |
-| anchornav |             | Anchor navigation         |             |                                  |
-|           | [jQuery][2] |                           |             | [![Bower version][bo_img2]][bo2] |
-| [charcounter][3] | jQuery char counter plugin | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-charcounter.svg)](http://badge.fury.io/bo/iptools-jquery-charcounter) |
-| [expandable-box][4] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable-box.svg)](http://badge.fury.io/bo/iptools-jquery-expandable-box) |
-| [expandable-list][5] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable-list.svg)](http://badge.fury.io/bo/iptools-jquery-expandable-list) | |
-| [fileupload][6] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-fileupload.svg)](http://badge.fury.io/bo/iptools-jquery-fileupload) | |
-| [genericfilter][7] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-genericfilter.svg)](http://badge.fury.io/bo/iptools-jquery-genericfilter) |  |
-| [imageparallax][8] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-imageparallax.svg)](http://badge.fury.io/bo/iptools-jquery-imageparallax) | |
-| [inview][9] | jQuery plugin for viewport monitoring | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-inview.svg)](http://badge.fury.io/bo/iptools-jquery-inview) |
-| [mlhmenu][10] | Multi-level horisontal jQuery menu | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-mlhmenu.svg)](http://badge.fury.io/bo/iptools-jquery-mlhmenu) |
-| [modal][11] | Multifunctional jQuery modal component | [![npm version](https://badge.fury.io/js/iptools-jquery-modal.svg)](https://badge.fury.io/js/iptools-jquery-modal) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-modal.svg)](http://badge.fury.io/bo/iptools-jquery-modal) |
-| [populator][12] | jQuery plugin that populates form control value(s) to other control(s) | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-populator.svg)](http://badge.fury.io/bo/iptools-jquery-populator) |
-| [tooltip][13] | Simple jQuery Tooltip plugin | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-tooltip.svg)](http://badge.fury.io/bo/iptools-jquery-tooltip) |
-| [validator][14] | jQuery form validation plugin | [![npm version](https://badge.fury.io/js/iptools-jquery-validator.svg)](https://badge.fury.io/js/iptools-jquery-validator) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-validator.svg)](http://badge.fury.io/bo/iptools-jquery-validator) |
-| [manager][15] | Component manager for all above-listed components | [![npm version](https://badge.fury.io/js/iptools-jquery-manager.svg)](https://badge.fury.io/js/iptools-jquery-manager) | [![Bower version](https://badge.fury.io/bo/iptools-jquery-manager.svg)](http://badge.fury.io/bo/iptools-jquery-manager) |
+| Component       | Ports          | Description                                         | NPM version                      | Bower version                       |
+| ---------       | -----          | ---------------                                     | -------                          | -----------                         |
+| accordion       |                | Simple accordion                                    |                                  |                                     |
+|                 | [jQuery][jq1]  |                                                     |                                  | [![Bower version][bo_img1]][bo1]    |
+| anchornav       |                | Anchor navigation                                   |                                  |                                     |
+|                 | [jQuery][jq2]  |                                                     |                                  | [![Bower version][bo_img2]][bo2]    |
+| charcounter     |                | Char counter                                        |                                  |                                     |
+|                 | [jQuery][jq3]  |                                                     |                                  | [![Bower version][bo_img3]][bo3]    |
+| expandable-box  |                |                                                     |                                  |                                     |
+|                 | [jQuery][jq4]  |                                                     |                                  | [![Bower version][bo_img4]][bo4]    |
+| expandable-list |                |                                                     |                                  |                                     |
+|                 | [jQuery][jq5]  |                                                     |                                  | [![Bower version][bo_img5]][bo5]    |
+| fileupload      |                |                                                     |                                  |                                     |
+|                 | [jQuery][jq6]  |                                                     |                                  | [![Bower version][bo_img6]][bo6]    |
+| genericfilter   |                |                                                     |                                  |                                     |
+|                 | [jQuery][jq7]  |                                                     |                                  | [![Bower version][bo_img7]][bo7]    |
+| imageparallax   |                |                                                     |                                  |                                     |
+|                 | [jQuery][jq8]  |                                                     |                                  | [![Bower version][bo_img8]][bo8]    |
+| inview          |                | Monitors Viewport                                   |                                  |                                     |
+|                 | [jQuery][jq9]  |                                                     |                                  | [![Bower version][bo_img9]][bo9]    |
+| mlhmenu         |                | Multi-level horisontal menu                         |                                  |                                     |
+|                 | [jQuery][jq10] |                                                     |                                  | [![Bower version][bo_img10]][bo10]  |
+| modal           |                | Multifunctional modal                               |                                  |                                     |
+|                 | [jQuery][jq11] |                                                     | [![npm version][js_img11]][js11] | [![Bower version][bo_img11]][bo11]  |
+| populator       |                | Populates form control value(s) to other control(s) |                                  |                                     |
+|                 | [jQuery][jq12] |                                                     |                                  | [![Bower version][bo_img12]][bo12]  |
+| tooltip         |                | Tooltip component                                   |                                  |                                     |
+|                 | [jQuery][jq13] |                                                     |                                  | [![Bower version][bo_img13]][bo13]  |
+| validator       |                | Form validation component                           |                                  |                                     |
+|                 | [jQuery][jq14] |                                                     | [![npm version][js_img14]][js14] | [![Bower version][bo_img14]][bo14] |
+| manager         |                | Component manager                                   |                                  |                                     |
+|                 | [jQuery][jq15] |                                                     | [![npm version][js_img15]][js15] | [![Bower version][bo_img15]][bo15]  |
 
 ## License
 
 Copyright © 2015-2017 Interactive Pioneers GmbH. Licenced under [GPL-3](LICENSE).
 
-[1]: https://github.com/interactive-pioneers/iptools-jquery-accordion
-[2]: https://github.com/interactive-pioneers/iptools-jquery-anchornav
-[3]: https://github.com/interactive-pioneers/iptools-jquery-charcounter
-[4]: https://github.com/interactive-pioneers/iptools-jquery-expandable-box
-[5]: https://github.com/interactive-pioneers/iptools-jquery-expandable-list
-[6]: https://github.com/interactive-pioneers/iptools-jquery-fileupload
-[7]: https://github.com/interactive-pioneers/iptools-jquery-genericfilter
-[8]: https://github.com/interactive-pioneers/iptools-jquery-image-parallax
-[9]: https://github.com/interactive-pioneers/iptools-jquery-inview
-[10]: https://github.com/interactive-pioneers/iptools-jquery-mlhmenu
-[11]: https://github.com/interactive-pioneers/iptools-jquery-modal
-[12]: https://github.com/interactive-pioneers/iptools-jquery-populator
-[13]: https://github.com/interactive-pioneers/iptools-jquery-tooltip
-[14]: https://github.com/interactive-pioneers/iptools-jquery-validator
-[15]: https://github.com/interactive-pioneers/iptools-jquery-manager
+[jq1]: https://github.com/interactive-pioneers/iptools-jquery-accordion
+[jq2]: https://github.com/interactive-pioneers/iptools-jquery-anchornav
+[jq3]: https://github.com/interactive-pioneers/iptools-jquery-charcounter
+[jq4]: https://github.com/interactive-pioneers/iptools-jquery-expandable-box
+[jq5]: https://github.com/interactive-pioneers/iptools-jquery-expandable-list
+[jq6]: https://github.com/interactive-pioneers/iptools-jquery-fileupload
+[jq7]: https://github.com/interactive-pioneers/iptools-jquery-genericfilter
+[jq8]: https://github.com/interactive-pioneers/iptools-jquery-image-parallax
+[jq9]: https://github.com/interactive-pioneers/iptools-jquery-inview
+[jq10]: https://github.com/interactive-pioneers/iptools-jquery-mlhmenu
+[jq11]: https://github.com/interactive-pioneers/iptools-jquery-modal
+[jq12]: https://github.com/interactive-pioneers/iptools-jquery-populator
+[jq13]: https://github.com/interactive-pioneers/iptools-jquery-tooltip
+[jq14]: https://github.com/interactive-pioneers/iptools-jquery-validator
+[jq15]: https://github.com/interactive-pioneers/iptools-jquery-manager
 
 [bo_img1]: https://badge.fury.io/bo/iptools-jquery-accordion.svg
 [bo_img2]: https://badge.fury.io/bo/iptools-jquery-anchornav.svg
+[bo_img3]: https://badge.fury.io/bo/iptools-jquery-charcounter.svg
+[bo_img4]: https://badge.fury.io/bo/iptools-jquery-expandable-box.svg
+[bo_img5]: https://badge.fury.io/bo/iptools-jquery-expandable-list.svg
+[bo_img6]: https://badge.fury.io/bo/iptools-jquery-fileupload.svg
+[bo_img7]: https://badge.fury.io/bo/iptools-jquery-genericfilter.svg
+[bo_img8]: https://badge.fury.io/bo/iptools-jquery-imageparallax.svg
+[bo_img9]: https://badge.fury.io/bo/iptools-jquery-inview.svg
+[bo_img10]: https://badge.fury.io/bo/iptools-jquery-mlhmenu.svg
+[bo_img11]: https://badge.fury.io/bo/iptools-jquery-modal.svg
+[bo_img12]: https://badge.fury.io/bo/iptools-jquery-populator.svg
+[bo_img13]: https://badge.fury.io/bo/iptools-jquery-tooltip.svg
+[bo_img14]: https://badge.fury.io/bo/iptools-jquery-validator.svg
+[bo_img15]: https://badge.fury.io/bo/iptools-jquery-manager.svg
 
 [bo1]: http://badge.fury.io/bo/iptools-jquery-accordion
 [bo2]: http://badge.fury.io/bo/iptools-jquery-anchornav
+[bo3]: http://badge.fury.io/bo/iptools-jquery-charcounter
+[bo4]: http://badge.fury.io/bo/iptools-jquery-expandable-box
+[bo5]: http://badge.fury.io/bo/iptools-jquery-expandable-list
+[bo6]: http://badge.fury.io/bo/iptools-jquery-fileupload
+[bo7]: http://badge.fury.io/bo/iptools-jquery-genericfilter
+[bo8]: http://badge.fury.io/bo/iptools-jquery-imageparallax
+[bo9]: http://badge.fury.io/bo/iptools-jquery-inview
+[bo10]: http://badge.fury.io/bo/iptools-jquery-mlhmenu
+[bo11]: http://badge.fury.io/bo/iptools-jquery-modal
+[bo12]: http://badge.fury.io/bo/iptools-jquery-populator
+[bo13]: http://badge.fury.io/bo/iptools-jquery-tooltip
+[bo14]: http://badge.fury.io/bo/iptools-jquery-validator
+[bo15]: http://badge.fury.io/bo/iptools-jquery-manager
+
+[js_img11]: https://badge.fury.io/js/iptools-jquery-modal.svg
+[js_img14]: https://badge.fury.io/js/iptools-jquery-validator.svg
+[js_img15]: https://badge.fury.io/js/iptools-jquery-manager.svg
+
+[js11]: https://badge.fury.io/js/iptools-jquery-modal
+[js14]: https://badge.fury.io/js/iptools-jquery-validator
+[js15]: https://badge.fury.io/js/iptools-jquery-manager

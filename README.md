@@ -1,6 +1,6 @@
-# iptools-jquery
+# iptools
 
-Collection of jQuery Bower components of Interactive Pioneers.
+Collection of JavaScript components by Interactive Pioneers.
 
 ## Components
 

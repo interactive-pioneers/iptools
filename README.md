@@ -4,10 +4,12 @@ Collection of JavaScript components by Interactive Pioneers.
 
 ## Components
 
-| Component | Description | NPM version | Bower version |
-| --------- | -------     | ----------- | ----          |
-| [accordion][1] | A simple jQuery accordion plugin | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-accordion.svg)](http://badge.fury.io/bo/iptools-jquery-accordion) |
-| [anchornav][2] | jQuery anchor navigation | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-anchornav.svg)](http://badge.fury.io/bo/iptools-jquery-anchornav) |
+| Component | Ports       | Description               | NPM version | Bower version                    |
+| --------- | -----       | ---------------           | -------     | -----------                      |
+| accordion |             | A simple accordion plugin |             |                                  |
+|           | [jQuery][1] |                           |             | [![Bower version][bo_img1]][bo1] |
+| anchornav |             | Anchor navigation         |             |                                  |
+|           | [jQuery][2] |                           |             | [![Bower version][bo_img2]][bo2] |
 | [charcounter][3] | jQuery char counter plugin | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-charcounter.svg)](http://badge.fury.io/bo/iptools-jquery-charcounter) |
 | [expandable-box][4] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable-box.svg)](http://badge.fury.io/bo/iptools-jquery-expandable-box) |
 | [expandable-list][5] | | | [![Bower version](https://badge.fury.io/bo/iptools-jquery-expandable-list.svg)](http://badge.fury.io/bo/iptools-jquery-expandable-list) | |
@@ -41,3 +43,9 @@ Copyright © 2015-2017 Interactive Pioneers GmbH. Licenced under [GPL-3](LICENSE
 [13]: https://github.com/interactive-pioneers/iptools-jquery-tooltip
 [14]: https://github.com/interactive-pioneers/iptools-jquery-validator
 [15]: https://github.com/interactive-pioneers/iptools-jquery-manager
+
+[bo_img1]: https://badge.fury.io/bo/iptools-jquery-accordion.svg
+[bo_img2]: https://badge.fury.io/bo/iptools-jquery-anchornav.svg
+
+[bo1]: http://badge.fury.io/bo/iptools-jquery-accordion
+[bo2]: http://badge.fury.io/bo/iptools-jquery-anchornav

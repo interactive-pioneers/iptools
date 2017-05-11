@@ -12,15 +12,15 @@ Collection of JavaScript components by Interactive Pioneers.
 |                 | [jQuery][jq2]  |                                                     |                                  | [![Bower version][bo_img2]][bo2]   |
 | charcounter     |                | Char counter                                        |                                  |                                    |
 |                 | [jQuery][jq3]  |                                                     |                                  | [![Bower version][bo_img3]][bo3]   |
-| expandable-box  |                |                                                     |                                  |                                    |
+| expandable-box  |                | Box cut and expand                                  |                                  |                                    |
 |                 | [jQuery][jq4]  |                                                     |                                  | [![Bower version][bo_img4]][bo4]   |
-| expandable-list |                |                                                     |                                  |                                    |
+| expandable-list |                | Expandable list                                     |                                  |                                    |
 |                 | [jQuery][jq5]  |                                                     |                                  | [![Bower version][bo_img5]][bo5]   |
-| fileupload      |                |                                                     |                                  |                                    |
+| fileupload      |                | Selected file name display                          |                                  |                                    |
 |                 | [jQuery][jq6]  |                                                     |                                  | [![Bower version][bo_img6]][bo6]   |
-| genericfilter   |                |                                                     |                                  |                                    |
+| genericfilter   |                | Abstract generic filter                             |                                  |                                    |
 |                 | [jQuery][jq7]  |                                                     |                                  | [![Bower version][bo_img7]][bo7]   |
-| imageparallax   |                |                                                     |                                  |                                    |
+| imageparallax   |                | Image parallax                                      |                                  |                                    |
 |                 | [jQuery][jq8]  |                                                     |                                  | [![Bower version][bo_img8]][bo8]   |
 | inview          |                | Monitors Viewport                                   |                                  |                                    |
 |                 | [jQuery][jq9]  |                                                     |                                  | [![Bower version][bo_img9]][bo9]   |
